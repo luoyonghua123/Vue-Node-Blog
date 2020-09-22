@@ -1,10 +1,12 @@
 # Vue-Node-Blog
 
+先启动MongoDB
+
 #### blog
 
-​	npm i 下载相关依赖
+npm i 下载相关依赖
 
-​	npm start 启动后端
+npm start 启动后端
 
 端口为3000
 
